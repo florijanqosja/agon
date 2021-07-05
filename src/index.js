@@ -7,7 +7,7 @@ import aa from "./components/header"
 
 ReactDOM.render(
   <React.StrictMode>
-    <aa />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
