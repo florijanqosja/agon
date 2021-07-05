@@ -3,10 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import aa from "./components/header"
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <aa />
   </React.StrictMode>,
   document.getElementById('root')
 );
